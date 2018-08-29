@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>于桂琦的网络日志</title>
+  <title>TimeNode</title>
   
   <subtitle>Record the passage of time</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yuguiqi.github.io/"/>
-  <updated>2018-08-27T03:03:29.964Z</updated>
+  <updated>2018-08-29T09:34:07.135Z</updated>
   <id>https://yuguiqi.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
+    <title>2018-08-27 first page</title>
     <link href="https://yuguiqi.github.io/2018/08/27/hello-world/"/>
     <id>https://yuguiqi.github.io/2018/08/27/hello-world/</id>
     <published>2018-08-27T03:03:29.963Z</published>
-    <updated>2018-08-27T03:03:29.964Z</updated>
+    <updated>2018-08-29T09:34:07.135Z</updated>
     
     <summary type="html">
     
