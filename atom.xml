@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yuguiqi.github.io/"/>
-  <updated>2018-08-31T12:52:43.463Z</updated>
+  <updated>2018-09-03T11:28:28.420Z</updated>
   <id>https://yuguiqi.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>配置SSH key</title>
+    <title>Git配置SSH key</title>
     <link href="https://yuguiqi.github.io/2018/08/31/git-init/"/>
     <id>https://yuguiqi.github.io/2018/08/31/git-init/</id>
     <published>2018-08-31T01:57:47.000Z</published>
-    <updated>2018-08-31T12:52:43.463Z</updated>
+    <updated>2018-09-03T11:28:28.420Z</updated>
     
     <summary type="html">
     
@@ -30,7 +30,7 @@
         
         
           &lt;p&gt;为什么要配置这个呢？因为你提交代码肯定要拥有你的github权限才可以，但是直接使用用户名和密码太不安全了，所以我们使用ssh key来解决本地和服务器的连接问题。&lt;/p&gt;
-&lt;h2 id=&quot;1-检查本机已存在的ssh密钥&quot;&gt;&lt;a
+&lt;h2 id=&quot;1，检查本机已存在的ssh密钥&quot;&gt;&lt;a
         
       
     
