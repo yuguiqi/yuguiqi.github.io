@@ -425,7 +425,7 @@ td {
 th,
 td {
   border-bottom: 3px solid #ddd;
-  border-right: 1px solid #555;
+  border-right: 1px solid #ddd;
 }
 th {
   padding-bottom: 10px;
@@ -499,7 +499,7 @@ code {
   padding: 2px 4px;
   word-wrap: break-word;
   color: #555;
-  background: #555;
+  background: #ddd;
   border-radius: 3px;
   font-size: 13px;
 }
@@ -745,7 +745,7 @@ pre .javascript .function {
   position: relative;
   padding: 15px;
   margin-bottom: 20px;
-  border: 1px solid #555;
+  border: 1px solid #ddd;
   border-left-width: 5px;
   border-radius: 3px;
 }
@@ -976,7 +976,7 @@ pre .javascript .function {
 .pagination {
   margin: 120px 0 40px;
   text-align: center;
-  border-top: 1px solid #555;
+  border-top: 1px solid #ddd;
 }
 .page-number-basic,
 .pagination .prev,
@@ -1002,7 +1002,7 @@ pre .javascript .function {
 .pagination .next,
 .pagination .page-number {
   border-bottom: 0;
-  border-top: 1px solid #555;
+  border-top: 1px solid #ddd;
   transition-property: border-color;
   transition-duration: 0.2s;
   transition-timing-function: ease-in-out;
@@ -1038,7 +1038,7 @@ pre .javascript .function {
   .pagination .page-number {
     margin-bottom: 10px;
     border-top: 0;
-    border-bottom: 1px solid #555;
+    border-bottom: 1px solid #ddd;
     padding: 0 10px;
   }
   .pagination .prev:hover,
@@ -1235,6 +1235,10 @@ pre .javascript .function {
   cursor: -webkit-zoom-in;
 }
 .post-body .image-caption,
+作者：my_杨哥,
+链接：https:,
+來源：简书,
+简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。,
 .post-body .figure .caption {
   margin: -20px auto 15px;
   text-align: center;
@@ -1242,6 +1246,16 @@ pre .javascript .function {
   color: #999;
   font-weight: bold;
   line-height: 1;
+}
+.post-body p a {
+  color: #223472;
+  border-bottom: none;
+  border-bottom: 1px solid #223472;
+}
+.post-body p a:hover {
+  color: #fc6423;
+  border-bottom: none;
+  border-bottom: 1px solid #fc6423;
 }
 .post-sticky-flag {
   display: inline-block;
@@ -1561,7 +1575,7 @@ pre .javascript .function {
   display: table;
   margin-top: 15px;
   width: 100%;
-  border-top: 1px solid #555;
+  border-top: 1px solid #ddd;
 }
 .post-nav-divider {
   display: table-cell;
@@ -1846,7 +1860,7 @@ pre .javascript .function {
   border-bottom-color: #555;
 }
 .sidebar a:hover {
-  color: #555;
+  color: #ddd;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .sidebar {
@@ -1993,7 +2007,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #0e20fc;
+  background: #8c250f;
 }
 .links-of-author a:hover {
   color: #555;

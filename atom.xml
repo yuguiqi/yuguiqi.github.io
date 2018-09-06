@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yuguiqi.github.io/"/>
-  <updated>2018-09-03T11:28:28.420Z</updated>
+  <updated>2018-09-06T08:29:38.919Z</updated>
   <id>https://yuguiqi.github.io/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Hexo创建、编写博客</title>
+    <link href="https://yuguiqi.github.io//blog/2018/09/06/write-blog/"/>
+    <id>https://yuguiqi.github.io//blog/2018/09/06/write-blog/</id>
+    <published>2018-09-06T03:22:16.000Z</published>
+    <updated>2018-09-06T08:29:38.919Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;终于用 Hexo + GitHub 搭建起了一个&lt;a href=&quot;https://yuguiqi.github.io/&quot;&gt;个人博客&lt;/a&gt;站点，下面介绍下如何创建和编写一个博文的。&lt;/p&gt;
+&lt;h2 id=&quot;一，-配置文件命名规则和路由地址&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://yuguiqi.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Git配置SSH key</title>
-    <link href="https://yuguiqi.github.io/2018/08/31/git-init/"/>
-    <id>https://yuguiqi.github.io/2018/08/31/git-init/</id>
+    <link href="https://yuguiqi.github.io//blog/2018/08/31/git-init/"/>
+    <id>https://yuguiqi.github.io//blog/2018/08/31/git-init/</id>
     <published>2018-08-31T01:57:47.000Z</published>
-    <updated>2018-09-03T11:28:28.420Z</updated>
+    <updated>2018-09-06T03:35:53.425Z</updated>
     
     <summary type="html">
     
@@ -30,7 +55,7 @@
         
         
           &lt;p&gt;为什么要配置这个呢？因为你提交代码肯定要拥有你的github权限才可以，但是直接使用用户名和密码太不安全了，所以我们使用ssh key来解决本地和服务器的连接问题。&lt;/p&gt;
-&lt;h2 id=&quot;1，检查本机已存在的ssh密钥&quot;&gt;&lt;a
+&lt;h3 id=&quot;1，检查本机已存在的ssh密钥&quot;&gt;&lt;a
         
       
     
@@ -43,8 +68,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://yuguiqi.github.io/2018/08/27/hello-world/"/>
-    <id>https://yuguiqi.github.io/2018/08/27/hello-world/</id>
+    <link href="https://yuguiqi.github.io//blog/2018/08/27/hello-world/"/>
+    <id>https://yuguiqi.github.io//blog/2018/08/27/hello-world/</id>
     <published>2018-08-27T03:03:29.963Z</published>
     <updated>2018-08-31T01:57:47.203Z</updated>
     
