@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yuguiqi.github.io/"/>
-  <updated>2018-09-06T08:29:38.919Z</updated>
+  <updated>2018-09-06T09:10:56.917Z</updated>
   <id>https://yuguiqi.github.io/</id>
   
   <author>
@@ -21,18 +21,12 @@
     <link href="https://yuguiqi.github.io//blog/2018/09/06/write-blog/"/>
     <id>https://yuguiqi.github.io//blog/2018/09/06/write-blog/</id>
     <published>2018-09-06T03:22:16.000Z</published>
-    <updated>2018-09-06T08:29:38.919Z</updated>
+    <updated>2018-09-06T09:10:56.917Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;终于用 Hexo + GitHub 搭建起了一个&lt;a href=&quot;https://yuguiqi.github.io/&quot;&gt;个人博客&lt;/a&gt;站点，下面介绍下如何创建和编写一个博文的。&lt;/p&gt;
-&lt;h2 id=&quot;一，-配置文件命名规则和路由地址&quot;&gt;&lt;a
-        
-      
+      &lt;p&gt;终于用 Hexo + GitHub 搭建起了一个&lt;a href=&quot;https://yuguiqi.github.io/&quot;&gt;个人博客&lt;/a&gt;站点，下面介绍下如何创建和编写一个博文的。&lt;/p&gt;
+&lt;h2 id=&quot;一，-配置文件命名规则和路由地址&quot;&gt;&lt;a href=&quot;#一，-配置文件命名规则和路由地址&quot; class=&quot;headerlink&quot; title=&quot;一， 配置文件命名规则和路由地址&quot;&gt;&lt;/a&gt;一， 配置文件命名规则和路由地址&lt;/h2&gt;&lt;h3 id=&quot;1-可以通过-Hexo-的配置文件-config-yml-中的-new-post-name-参数来改变默认的文件名称&quot;&gt;&lt;a href=&quot;#1-可以通过-Hexo-的配置文件-config-yml-中的-new-post-name-参数来改变默认的文件名称&quot; class=&quot;headerlink&quot; title=&quot;1.可以通过 Hexo 的配置文件 _config.yml 中的 new_post_name 参数来改变默认的文件名称&quot;&gt;&lt;/a&gt;1.可以通过 Hexo 的配置文件 _config.yml 中的 new_post_name 参数来改变默认的文件名称&lt;/h3&gt;&lt;p&gt;Hexo 默认以标题作为文件名称:&lt;br&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;new_post_name: :title.md&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
     
     </summary>
     
@@ -46,18 +40,13 @@
     <link href="https://yuguiqi.github.io//blog/2018/08/31/git-init/"/>
     <id>https://yuguiqi.github.io//blog/2018/08/31/git-init/</id>
     <published>2018-08-31T01:57:47.000Z</published>
-    <updated>2018-09-06T03:35:53.425Z</updated>
+    <updated>2018-09-06T08:42:45.019Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;为什么要配置这个呢？因为你提交代码肯定要拥有你的github权限才可以，但是直接使用用户名和密码太不安全了，所以我们使用ssh key来解决本地和服务器的连接问题。&lt;/p&gt;
-&lt;h3 id=&quot;1，检查本机已存在的ssh密钥&quot;&gt;&lt;a
-        
-      
+      &lt;p&gt;为什么要配置这个呢？因为你提交代码肯定要拥有你的github权限才可以，但是直接使用用户名和密码太不安全了，所以我们使用ssh key来解决本地和服务器的连接问题。&lt;/p&gt;
+&lt;h3 id=&quot;1，检查本机已存在的ssh密钥&quot;&gt;&lt;a href=&quot;#1，检查本机已存在的ssh密钥&quot; class=&quot;headerlink&quot; title=&quot;1，检查本机已存在的ssh密钥&quot;&gt;&lt;/a&gt;1，检查本机已存在的ssh密钥&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ &lt;span class=&quot;built_in&quot;&gt;cd&lt;/span&gt; ~/. ssh&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;如果提示：No such file or directory 说明你是第一次使用git。不影响下面步骤，只是检查下是否存在ssh密钥&lt;/p&gt;
     
     </summary>
     
@@ -71,17 +60,11 @@
     <link href="https://yuguiqi.github.io//blog/2018/08/27/hello-world/"/>
     <id>https://yuguiqi.github.io//blog/2018/08/27/hello-world/</id>
     <published>2018-08-27T03:03:29.963Z</published>
-    <updated>2018-08-31T01:57:47.203Z</updated>
+    <updated>2018-09-06T08:44:42.961Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
     
     </summary>
     
