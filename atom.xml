@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yuguiqi.github.io/"/>
-  <updated>2018-09-12T06:40:24.676Z</updated>
+  <updated>2018-09-12T07:07:26.742Z</updated>
   <id>https://yuguiqi.github.io/</id>
   
   <author>
@@ -21,17 +21,12 @@
     <link href="https://yuguiqi.github.io//blog/2018/09/12/ubuntu-ros/"/>
     <id>https://yuguiqi.github.io//blog/2018/09/12/ubuntu-ros/</id>
     <published>2018-09-12T03:08:23.000Z</published>
-    <updated>2018-09-12T06:40:24.676Z</updated>
+    <updated>2018-09-12T07:07:26.742Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;此文只针对Ubuntu14.04版本上安装Ros Indigo版本，这是当前机器运行版本正在使用的版本，其它版本的安装请参考&lt;a href=&quot;http://wiki.ros.org/ROS/Installation&quot; target=&quot;_blank&quot;
-        
-      
+      &lt;h2 id=&quot;前言：&quot;&gt;&lt;a href=&quot;#前言：&quot; class=&quot;headerlink&quot; title=&quot;前言：&quot;&gt;&lt;/a&gt;前言：&lt;/h2&gt;&lt;p&gt;ROS机器人操作系统 （ Robot Operating System 或简称 ROS）。&lt;br&gt;笔者之前是做web的，编程语言对java和js较为熟悉，现在作为一个Ros初学者，对Ros的理解，ROS不是一个完全意义上的操作系统，是一个软件平台能够提供类似传统操作系统的诸多功能而已，ROS的主要代码由C++语言编写,客户端库的编写还可以使用Python等。ROS只不过用c++基本语法进行了封装，可以理解为一个C++框架的，制定了统一的语法标准，类似java框架的SpringBoot，前端框架里面的vue,react。&lt;/p&gt;
+&lt;p&gt;此文只针对Ubuntu14.04版本上安装Ros Indigo版本，这是当前机器运行版本正在使用的版本，其它版本的安装请参考&lt;a href=&quot;http://wiki.ros.org/ROS/Installation&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;官方文档&lt;/a&gt;。&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
