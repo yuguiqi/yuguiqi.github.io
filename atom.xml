@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yuguiqi.github.io/"/>
-  <updated>2018-09-12T07:24:04.444Z</updated>
+  <updated>2018-10-10T13:02:06.634Z</updated>
   <id>https://yuguiqi.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何使用rviz连接远程机器</title>
+    <link href="https://yuguiqi.github.io//blog/2018/10/10/rviz/"/>
+    <id>https://yuguiqi.github.io//blog/2018/10/10/rviz/</id>
+    <published>2018-10-10T12:14:32.000Z</published>
+    <updated>2018-10-10T13:02:06.634Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;在自己机器的Ubuntu系统，如何连接到远程机器人服务器，首先我们要保证自己的Ubuntu已经装有ros，如果没有请参照&lt;a href=&quot;https://yuguiqi.github.io/blog/2018/09/12/ubuntu-ros/&quot;&gt;这篇文章&lt;/a&gt;安装，安装完成后按照下面步骤进行。&lt;/p&gt;
+&lt;h3 id=&quot;1，ip和网络通信检测&quot;&gt;&lt;a href=&quot;#1，ip和网络通信检测&quot; class=&quot;headerlink&quot; title=&quot;1，ip和网络通信检测&quot;&gt;&lt;/a&gt;1，ip和网络通信检测&lt;/h3&gt;&lt;p&gt;首先确保自己机器连接到机器人服务器的wifi，确认本机可以访问远程机器。&lt;br&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ ping 192.168.10.11 &lt;span class=&quot;comment&quot;&gt;#远程机器ip&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;如下图表示可以正常通信。&lt;br&gt;&lt;img src=&quot;/blog/2018/10/10/rviz/../../../../../images/rviz/0.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;然后查看本机ip。&lt;br&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ ifconfig&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Ubuntu14.04安装和配置ROS Indigo</title>
