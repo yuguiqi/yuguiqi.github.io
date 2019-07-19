@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yuguiqi.github.io/"/>
-  <updated>2018-10-10T13:02:06.634Z</updated>
+  <updated>2019-07-19T10:40:30.004Z</updated>
   <id>https://yuguiqi.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2019-07-19</title>
+    <link href="https://yuguiqi.github.io//blog/2019/07/19/2019-07-19/"/>
+    <id>https://yuguiqi.github.io//blog/2019/07/19/2019-07-19/</id>
+    <published>2019-07-19T10:39:03.000Z</published>
+    <updated>2019-07-19T10:40:30.004Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;###好久没用使用了，今天测试下，明天开始搞起！！！！！！！！！！！！&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>如何使用rviz连接远程机器</title>
